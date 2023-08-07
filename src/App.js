@@ -1,15 +1,17 @@
 import Button from './Button';
-import Dice from './Dice';
-function App(){
-    return (
+import HandButton from './HandButton';
+
+function App() {
+  const handleButtonClick = (value) => console.log(value);
+  const handleClearClick = () => console.log('처음부터');
+  return (
     <div>
-        <div>
-            <Button>던지기</Button>
-            <Button>처음부터</Button>
-        </div>
-        <Dice color="red" num={2} />
+      <Button name="처음부터" onClick={handleClearClick} />
+      <HandButton value="rock" onClick={handleButtonClick} />
+      <HandButton value="scissor" onClick={handleButtonClick} />
+      <HandButton value="paper" onClick={handleButtonClick} />
     </div>
-    );
+  );
 }
 
 export default App;
