@@ -6,7 +6,7 @@ function App() {
   const handleClearClick = () => console.log('처음부터');
   return (
     <div>
-      <Button name="처음부터" onClick={handleClearClick} />
+      <Button onClick={handleClearClick}>처음부터</Button>
       <HandButton value="rock" onClick={handleButtonClick} />
       <HandButton value="scissor" onClick={handleButtonClick} />
       <HandButton value="paper" onClick={handleButtonClick} />
