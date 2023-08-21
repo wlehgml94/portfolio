@@ -13,7 +13,7 @@ function getResult(me, other) {
   return '무승부';
 }
 
-function App() {
+function Board({name, color}) {
   const [hand, setHand] = useState(INITIAL_VALUE);
   const [otherHand, setOtherHand] = useState(INITIAL_VALUE);
   const [gameHistory, setGameHistory] = useState([]);
@@ -42,8 +42,9 @@ function App() {
   };
 
   const handleBetChange = (e) => {
+    // 여기에 코드를 작성하세요
     let num = Number(e.target.value);
-    if (num > 9) num %= 10;
+    if (num > 9) num %= 10; // 1과 9 사이의 숫자로 만들어 줌
     if (num < 1) num = 1;
     num = Math.floor(num);
     setBet(num);
@@ -51,6 +52,7 @@ function App() {
 
   return (
     <div>
+        <Button onClick={handleClearClick}></Button>
       <Button onClick={handleClearClick}>처음부터</Button>
       <div>
         {score} : {otherScore}
@@ -73,4 +75,4 @@ function App() {
   );
 }
 
-export default App;
+export default Board;
