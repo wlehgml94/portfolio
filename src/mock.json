@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "imgUrl": "https://img.freepik.com/free-icon/link-metal-chain_318-9063.jpg",
+    "title": "BUILDINGSOLUTION",
+    "content": "Web Publishing 60%",
+    "createdAt": 1625340973562,
+    "updatedAt": 1625340973562,
+    "date": "website / 2023",
+    "url": "https://buildingsolution.co.kr/"
+  },
+  {
+    "id": 2,
+    "imgUrl": "https://learn-codeit-kr-static.s3.ap-northeast-2.amazonaws.com/react-02/foods/02-boiled-egg.png",
+    "title": "APARTMETARY",
+    "content": "Web Publishing 70%",
+    "createdAt": 1625184428289,
+    "updatedAt": 1625184428289,
+    "date": "website / 2020",
+    "url": "https://apartmentary.com/"
+  },
+  {
+    "id": 3,
+    "imgUrl": "https://learn-codeit-kr-static.s3.ap-northeast-2.amazonaws.com/react-02/foods/03-cherry-tomato.png",
+    "title": "PLUS X OBJECT",
+    "content": "Web Publishing 100%",
+    "createdAt": 1625330203116,
+    "updatedAt": 1625330203116,
+    "date": "website / 2019",
+    "url": "https://object.plus-ex.com/"
+  },
+  {
+    "id": 4,
+    "imgUrl": "https://learn-codeit-kr-static.s3.ap-northeast-2.amazonaws.com/react-02/foods/04-fried-egg.png",
+    "title": "Fossula",
+    "content": "Web Publishing 60%",
+    "createdAt": 1625028045602,
+    "updatedAt": 1625028045602,
+    "date": "website / 2020",
+    "url": "https://fossula.com/"
+  },
+  {
+    "id": 5,
+    "imgUrl": "https://learn-codeit-kr-static.s3.ap-northeast-2.amazonaws.com/react-02/foods/05-watermelon.png",
+    "title": "FIVEAD",
+    "content": "Web Publishing 100%",
+    "createdAt": 1625308116667,
+    "updatedAt": 1625308116667,
+    "date": "website / 2022",
+    "url": "http://www.fivead.co.kr"
+  },
+  {
+    "id": 6,
+    "imgUrl": "https://learn-codeit-kr-static.s3.ap-northeast-2.amazonaws.com/react-02/foods/06-banana.png",
+    "title": "ETIQA",
+    "content": "Web Publishing 50%",
+    "createdAt": 1624613250969,
+    "updatedAt": 1624613250969,
+    "date": "website / 2019",
+    "url": "http://www.etiqa.co.kr/"
+  },
+  {
+    "id": 7,
+    "imgUrl": "https://learn-codeit-kr-static.s3.ap-northeast-2.amazonaws.com/react-02/foods/07-kimchi.png",
+    "title": "WONJIN PLASTIC SURGERY",
+    "content": "Web Publishing 50%",
+    "createdAt": 1624889538305,
+    "updatedAt": 1624889538305,
+    "date": "website / 2019",
+    "url": "http://www.k-wonjin.co.kr/"
+  },
+  {
+    "id": 8,
+    "imgUrl": "https://learn-codeit-kr-static.s3.ap-northeast-2.amazonaws.com/react-02/foods/08-mixed-rice.png",
+    "title": "KCOMSCO",
+    "content": "UX 70%",
+    "createdAt": 1625233200164,
+    "updatedAt": 1625233200164,
+    "date": "website / 2018",
+    "url": "https://drive.google.com/file/d/1J_oLrAOt4IJ257D2eFaKbI-NiNfvYFuY/view?usp=sharing"
+  },
+  {
+    "id": 9,
+    "imgUrl": "https://learn-codeit-kr-static.s3.ap-northeast-2.amazonaws.com/react-02/foods/09-brown-rice.png",
+    "title": "DRUNKIN THAI",
+    "content": "PUBLISHING 100%",
+    "createdAt": 1624998701293,
+    "updatedAt": 1624998701293,
+    "date": "website / 2018",
+    "url": "http://drunkinthai.com/"
+  },
+  {
+    "id": 10,
+    "imgUrl": "https://learn-codeit-kr-static.s3.ap-northeast-2.amazonaws.com/react-02/foods/10-apple.png",
+    "title": "사과",
+    "content": "1회(100g)",
+    "createdAt": 1624685150667,
+    "updatedAt": 1624685150667,
+    "date": "website / 2020",
+    "url": "https://apartmentary.com/"
+  },
+  {
+    "id": 11,
+    "imgUrl": "https://learn-codeit-kr-static.s3.ap-northeast-2.amazonaws.com/react-02/foods/11-almond.png",
+    "title": "아몬드",
+    "content": "1개(1g)",
+    "createdAt": 1625334567466,
+    "updatedAt": 1625334567466,
+    "date": "website / 2020",
+    "url": "https://apartmentary.com/"
+  },
+  {
+    "id": 12,
+    "imgUrl": "https://learn-codeit-kr-static.s3.ap-northeast-2.amazonaws.com/react-02/foods/12-tomato.png",
+    "title": "토마토 (중간크기)",
+    "content": "1개(100g)",
+    "createdAt": 1624725579386,
+    "updatedAt": 1624725579386,
+    "date": "website / 2020",
+    "url": "https://apartmentary.com/"
+  },
+  {
+    "id": 13,
+    "imgUrl": "https://learn-codeit-kr-static.s3.ap-northeast-2.amazonaws.com/react-02/foods/13-americano.png",
+    "title": "아메리카노",
+    "content": "1잔(240ml)",
+    "createdAt": 1625138235656,
+    "updatedAt": 1625138235656,
+    "date": "website / 2020",
+    "url": "https://apartmentary.com/"
+  },
+  {
+    "id": 14,
+    "imgUrl": "https://learn-codeit-kr-static.s3.ap-northeast-2.amazonaws.com/react-02/foods/14-cucumber.png",
+    "title": "오이",
+    "content": "1개(210g)",
+    "createdAt": 1624881277160,
+    "updatedAt": 1624881277160,
+    "date": "website / 2020",
+    "url": "https://apartmentary.com/"
+  },
+  {
+    "id": 15,
+    "imgUrl": "https://learn-codeit-kr-static.s3.ap-northeast-2.amazonaws.com/react-02/foods/15-plum.png",
+    "title": "자두",
+    "content": "1회(100g)",
+    "createdAt": 1625433571061,
+    "updatedAt": 1625433571061,
+    "date": "website / 2020",
+    "url": "https://apartmentary.com/"
+  },
+  {
+    "id": 16,
+    "imgUrl": "https://learn-codeit-kr-static.s3.ap-northeast-2.amazonaws.com/react-02/foods/16-korean-melon.png",
+    "title": "참외",
+    "content": "1개(200g)",
+    "createdAt": 1624602034639,
+    "updatedAt": 1624602034639,
+    "date": "website / 2020",
+    "url": "https://apartmentary.com/"
+  },
+  {
+    "id": 17,
+    "imgUrl": "https://learn-codeit-kr-static.s3.ap-northeast-2.amazonaws.com/react-02/foods/17-lattuce.png",
+    "title": "상추",
+    "content": "1회분(100g)",
+    "createdAt": 1625171694068,
+    "updatedAt": 1625171694068,
+    "date": "website / 2020",
+    "url": "https://apartmentary.com/"
+  },
+  {
+    "id": 18,
+    "imgUrl": "https://learn-codeit-kr-static.s3.ap-northeast-2.amazonaws.com/react-02/foods/18-steamed-potato.png",
+    "title": "찐감자",
+    "content": "1개(130g)",
+    "createdAt": 1625254300792,
+    "updatedAt": 1625254300792,
+    "date": "website / 2020",
+    "url": "https://apartmentary.com/"
+  }
+]
